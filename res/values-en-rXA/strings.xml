@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="incoming_call_failed_low_battery">[Îñçöḿîñĝ Çåļļ îš ƒåîļéð ðûé ţö ļöŵ ɓåţţéŕý. one two three four five]</string>
-    <string name="device_is_hd_capable">[ŠÎḾ %1$d îš ĤÐ çåþåɓļé one two three]</string>
+    <string name="device_is_hd_capable" />
     <string name="hd_icon_header_app_name">[ ]</string>
     <string name="device_is_volte_capable">[ŠÎḾ %1$d îš νÖĻŢÉ çåþåɓļé one two three]</string>
     <string name="call_hold_label">[Çåļļ ĥöļð : one two]</string>
